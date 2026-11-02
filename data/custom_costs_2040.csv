@@ -1,0 +1,15 @@
+technology,year,parameter,value,unit,source,currency_year
+seawater desalination,2040,FOM,4.0,%/year,"Caldera et al 2016: Local cost of seawater RO desalination based on solar PV and windenergy: A global estimate. (https://doi.org/10.1016/j.desal.2016.02.004), Table 1.",2015
+seawater desalination,2040,electricity-input,3.0348,kWh/m^3-H2O,"Caldera et al 2016: Local cost of seawater RO desalination based on solar PV and windenergy: A global estimate. (https://doi.org/10.1016/j.desal.2016.02.004), Fig. 4.",2015
+seawater desalination,2040,efficiency,329.5110,(m^3-H2O/h)/MW,calculated from electricity input,2015
+seawater desalination,2040,investment (base),27828.5154,EUR/(m^3-H2O/h),"Caldera et al 2017: Learning Curve for Seawater Reverse Osmosis Desalination Plants: Capital Cost Trend of the Past, Present, and Future (https://doi.org/10.1002/2017WR021402), Table 4.",2015
+seawater desalination,2040,investment,9169801.9380,EUR/MW,calculated from efficiency and investment (base),2015
+seawater desalination,2040,lifetime,30.0,years,"Caldera et al 2016: Local cost of seawater RO desalination based on solar PV and windenergy: A global estimate. (https://doi.org/10.1016/j.desal.2016.02.004), Table 1.",2015
+water pipeline,2040,investment,52.0833,EUR/(m^3-H2O/h)/km,conversation with Algerian water provider,2024
+water pipeline,2040,lifetime,40,years,assumption based on H2 pipeline,2024
+water pipeline,2040,FOM,5,%/year,assumption based on H2 pipeline,2024
+water pipeline,2040,efficiency,0.98,per unit,assumption based on H2 pipeline,2024
+H2,2040,lower heating value,121, MJ/kg-H2, (https://doi.org/10.1007/978-3-030-58244-9_15),2024
+H2,2040,higher heating value,141, MJ/kg-H2, (https://doi.org/10.1007/978-3-030-58244-9_15),2024
+electrolysis,2040,water demand (mass),10,kg/kg,(https://doi.org/10.1016/j.isci.2021.102539),2021
+electrolysis,2040,water demand,0.1943,(m^3-H2O/h)/MW,"calculated from the efficiency, water demand, water density, and hydrogen lower heating value.",2021

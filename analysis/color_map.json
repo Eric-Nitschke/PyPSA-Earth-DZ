@@ -1,0 +1,18 @@
+{
+    "Onshore Wind": "#9bd4cd",
+    "Photovoltaic": "#b88e3b",
+    "Electrolysis": "#853e39",
+    "Hydrogen Pipeline": "#63abc9",
+    "Existing Power Line": "darkgray",
+    "Power Line": "#9c5d2b",
+    "Desalination": "#5e4f85",
+    "Water Pipeline": "#4e7cb2",
+    "Battery Storage": "#d3c876",
+    "Hydrogen Storage": "#cbe1b3",
+    "Network Node": "dimgray",
+    "Export Location": "#733957",
+    "Generator": "dimgray",
+    "Patch Border": "whitesmoke",
+    "Background": "whitesmoke",
+    "Ocean": "lightblue"
+}
